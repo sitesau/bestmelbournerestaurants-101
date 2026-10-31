@@ -1,0 +1,22 @@
+{
+  "wheel_id": 572,
+  "structure": "umbrella",
+  "slug": "bestmelbournerestaurants-101",
+  "project": "restaurants-melbourne-red-flags-4e49d37a9fffbabd2339effcb6ebb1b",
+  "parent_t1_ref": "bestmelbournerestaurants-150",
+  "node_role": "feeder",
+  "money_target": "bestmelbournerestaurants.com.au",
+  "primary_kw": "restaurants melbourne red flags",
+  "intended_url": "http://restaurants-melbourne-red-flags-4e49d37a9fffbabd2339effcb6ebb1b.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "6063a43e7915be91",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/bestmelbournerestaurants-150/",
+      "anchor": "this restaurants melbourne beginner guide resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
